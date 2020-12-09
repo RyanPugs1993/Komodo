@@ -1,0 +1,6 @@
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\bin\Debug\KomoRepo.dll
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\bin\Debug\KomoRepo.pdb
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\obj\Debug\KomoRepo.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\obj\Debug\KomoRepo.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\obj\Debug\KomoRepo.dll
+E:\ElevenFiftyProjects\DotNetProjects\Dev\KomoRepo\obj\Debug\KomoRepo.pdb

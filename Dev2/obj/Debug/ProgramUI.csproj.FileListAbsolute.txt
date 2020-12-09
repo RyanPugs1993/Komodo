@@ -1,0 +1,10 @@
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\obj\Debug\ProgramUI.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\bin\Debug\Dev2.exe.config
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\bin\Debug\Dev2.exe
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\bin\Debug\Dev2.pdb
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\bin\Debug\KomoRepo.dll
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\bin\Debug\KomoRepo.pdb
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\obj\Debug\ProgramUI.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\obj\Debug\ProgramUI.csproj.CopyComplete
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\obj\Debug\Dev2.exe
+E:\ElevenFiftyProjects\DotNetProjects\Dev\Dev2\obj\Debug\Dev2.pdb
